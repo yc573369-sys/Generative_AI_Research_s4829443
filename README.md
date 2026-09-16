@@ -5,3 +5,5 @@ Answer:Efficient file storage and organization make research data easier to find
 Answer:Different types of research data should be stored in clearly organised folders based on their categories, such as literature, quantitative data, qualitative data, and reports. Survey participant data, interview transcripts, and consent forms require special access controls because they may contain personal, sensitive, or identifiable information. Access to these files should be limited to authorised research team members to protect participants’ privacy and confidentiality.
 3. 
 Answer:A good naming convention makes files easier to identify, find, and organise. Consistent and descriptive file names can reduce confusion between different files or versions and help team members understand the content without opening each file. It also makes collaboration and version control more efficient.
+4. 
+Creating a new branch is useful when a team member wants to make changes or test new ideas without affecting the main version of the project. It also allows multiple team members to work on different parts of the project at the same time and merge their changes after review.
